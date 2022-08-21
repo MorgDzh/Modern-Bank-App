@@ -1,9 +1,13 @@
-import React from 'react'
+import React from "react";
 
 const App = () => {
   return (
-    <div>App</div>
-  )
-}
+    <div className="bg-primary w-full overflow-hidden">
+      <div className="">
 
-export default App
+      </div>
+    </div>
+  );
+};
+
+export default App;
