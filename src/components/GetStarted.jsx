@@ -2,7 +2,7 @@ import React from 'react'
 
 const GetStarted = () => {
   return (
-    <div>GetStarted</div>
+    <div className='text-orange-600'>GetStarted</div>
   )
 }
 
