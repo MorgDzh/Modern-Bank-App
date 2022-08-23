@@ -6,4 +6,4 @@
 
 ## Intoduction
 
-Modern UI/UX website using React.js & Tailwind CSS for banking use.
+Modern responsive UI/UX website using React.js & Tailwind CSS for banking use. Also used tools such as vite and netlify to create it.
