@@ -1,6 +1,6 @@
 # ModernBankApp
 
-## <a href="https://reliable-yeot-5ac483.netlify.app/">VIEW LIVE RESULT</a>
+## <a href="https://modernappbank.netlify.app/">VIEW LIVE RESULT</a>
 
 ![Image text](https://github.com/MorgDzh/ModernBankApp/blob/main/src/assets/resultimg.png)
 
